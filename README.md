@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Vikram Shrivastava</h1>
+<h1 align="center">Hi 👋, I'm Vikram Shrivastav</h1>
 <h3 align="center">A Passionate AI and Full Stack Developer from India 🚀</h3>
 
 <!-- Profile Views -->
