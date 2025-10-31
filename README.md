@@ -2,6 +2,11 @@
 <h1 align="center">Hi 👋, I'm Vikram Shrivastava</h1>
 <h3 align="center">A Passionate AI and Full Stack Developer from India 🚀</h3>
 
+<!-- Profile Views -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=vikram-shrivastava&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 <!-- Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=Full+Stack+%26+AI+Developer;Builder+Mindset+%7C+Creating+Impactful+Tech;Lifelong+Learner+%7C+Innovating+for+Future" alt="Typing SVG" />
