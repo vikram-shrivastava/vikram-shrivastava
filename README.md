@@ -56,7 +56,7 @@ Stay tuned — exciting releases are coming soon! ⚡
 <p align="center">
   <a href="https://github.com/vikram-shrivastava" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/vikramshrivastav" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/vikrams_13" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/u/vikrams_13" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
 <p align="center">
