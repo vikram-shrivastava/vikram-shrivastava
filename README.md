@@ -35,9 +35,42 @@ I believe in continuous growth, curiosity, and hands-on innovation — every lin
 
 ---
 
-### 🚧 Projects in Progress
-All my projects are currently under active development — I focus on building **scalable, intelligent, and user-focused applications** integrating AI and modern web technologies.  
-Stay tuned — exciting releases are coming soon! ⚡
+### 🚀 Projects
+Here are some of the projects I’ve built to solve real problems using web technologies and AI:  
+
+#### 🔹 [ResumeRanker](https://resumeranker.vikramshrivastav.app)
+A one-stop solution for students to tailor resumes effortlessly.  
+ResumeRanker helps students customize their resume for **each job description in seconds** with one click.  
+
+**Key features:**  
+- 📊 Analytical dashboard to track progress across uploaded resumes  
+- 📄 ATS Score Analyzer: Upload a resume to get an ATS score with summary and improvement suggestions  
+- 🎯 Resume Tailoring: Upload resume + JD, optionally add custom context (add/remove content), and get a tailored version instantly  
+
+---
+
+#### 🔹 [NexusCreate](https://nexuscreate.vikramshrivastav.app)
+A content creation tool designed for creators to simplify and automate workflows.  
+
+**Key features:**  
+- 🎥 Video compression  
+- ✍️ Caption generation from videos  
+- 📢 AI-generated social media posts for videos  
+- 🖼️ Bulk image resizing  
+
+**Technical highlights:**  
+- Queues for managing communication between Python server and Next.js app  
+- LLM for generating captions and social media content  
+- Cloudinary used for video compression and image resizing  
+
+---
+
+#### 🔹 [TrueFeedback](https://mysteryfeedback.vikramshrivastav.app)
+A platform helping organizations collect **real, anonymous feedback** from employees or users.  
+
+**Key features:**  
+- Anonymous submission ensures honest feedback  
+- Dashboard for detailed insights and actionable analysis  
 
 ---
 
@@ -49,11 +82,16 @@ Stay tuned — exciting releases are coming soon! ⚡
 
 ---
 
-### 📊 GitHub Overview
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikram-shrivastava&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikram-shrivastava&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vikram-shrivastava&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="150"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikram-shrivastava&theme=radical&hide_border=false" alt="GitHub Streak" height="150"/>
 </p>
+
+**💡 Tips if stats not showing:**  
+- Username must match exactly (`vikram-shrivastava`)  
+- Make sure your GitHub contributions are **public**  
+- `hide_border=false` avoids display issues  
 
 ---
 
