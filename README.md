@@ -82,19 +82,6 @@ A platform helping organizations collect **real, anonymous feedback** from emplo
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikram-shrivastava&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="150"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikram-shrivastava&theme=radical&hide_border=false" alt="GitHub Streak" height="150"/>
-</p>
-
-**💡 Tips if stats not showing:**  
-- Username must match exactly (`vikram-shrivastava`)  
-- Make sure your GitHub contributions are **public**  
-- `hide_border=false` avoids display issues  
-
----
-
 ### 🤝 Connect with Me
 <p align="center">
   <a href="https://github.com/vikram-shrivastava" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
